@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B6E36336-085C-4E33-98B4-ECB0EA6C61C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyGram115 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGram115" expanded="True">
+            <Node name="MyGram115" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
