@@ -351,3 +351,4 @@
 /Users/cristalzavala/Desktop/My Gram Modual  HM/MyGramHM/MyGramHM/obj/Debug/netcoreapp3.1/MyGramHM.pdb
 /Users/cristalzavala/Desktop/My Gram Modual  HM/MyGramHM/MyGramHM/obj/Debug/netcoreapp3.1/MyGramHM.genruntimeconfig.cache
 /Users/cristalzavala/Desktop/My Gram Modual  HM/MyGramHM/MyGramHM/obj/Debug/netcoreapp3.1/Razor/Views/Home/SignUp.cshtml.g.cs
+/Users/cristalzavala/Desktop/My Gram Modual  HM/MyGramHM/MyGramHM/obj/Debug/netcoreapp3.1/Razor/Views/Home/CalendarView.cshtml.g.cs

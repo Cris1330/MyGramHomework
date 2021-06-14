@@ -1,7 +1,7 @@
 ﻿:root {
     --imageWidthHeight: 180px;
-    --imageWidthHeightMainImages: 100px;
-}
+    --imageWidthHeightMainImages:100px;
+    }
 
 #MyGramContainer {
     width: 100%;
@@ -37,17 +37,12 @@
         border-style: solid;
         border-width: 1px;
         border-radius: 50%;
-    }
 
-
-
+}
 
 .BoldText {
     font-weight: bold;
 }
-
-
-
 
 #SectionsTable {
     width: 45%;
@@ -55,16 +50,19 @@
     margin-right: auto;
 
 }
+#OptionsTable {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+#MainImages {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
 #Section {
     display: grid;
     grid-template-columns: auto auto; 
 }
-
-#OptionsTable {
-    display: grid;
-    grid-template-columns: auto auto auto auto ;
-}
-
 #Options {
     width: 45%;
     margin-left: auto;
@@ -95,8 +93,5 @@
     width: 200px;
     height: 200px;
 }
-#MainImages {
-    display: grid;
-    grid-template-columns: auto auto auto;
-}
+
 
