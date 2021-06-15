@@ -3,33 +3,6 @@
     --imageWidthHeightMainImages:100px;
     }
 
-#MyGramContainer {
-    width: 100%;
-    display: grid;
-    grid-template-columns: auto;
-
-}
-
-
-#MainProfileInfo {
-    width: 55%;
-    margin-left: auto;
-    margin-right: auto;
-    display: grid;
-    grid-template-columns: auto auto auto;
-
-}
-
-.Span2Columns {
-    grid-column-start: 2;
-    grid-column-end: 4;
-}
-
-.Span3Rows {
-    grid-row-start: 1;
-    grid-row-end: 4;
-}
-
 #ProfileInfo img {
         width: var(--imageWidthHeight);
         height: var(--imageWidthHeight);
@@ -50,29 +23,8 @@
     margin-right: auto;
 
 }
-#OptionsTable {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
-}
-#MainImages {
-    display: grid;
-    grid-template-columns: auto auto auto;
-}
 
-#Section {
-    display: grid;
-    grid-template-columns: auto auto; 
-}
-#Options {
-    width: 45%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#OptionsTable {
-    width: 55%;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 #Sections img {
     width: var(--imageWidthHeightMainImages);

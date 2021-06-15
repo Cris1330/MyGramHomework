@@ -1,25 +1,27 @@
 ﻿<Properties StartupConfiguration="{86F4D3B9-3B87-4E24-B4CF-EB11039E5F91}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramHM/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGramHM/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="MyGramHM/Views/Home/Index.cshtml" Line="24" Column="45" />
       <File FileName="MyGramHM/wwwroot/css/signup.css" Line="1" Column="1" />
-      <File FileName="MyGramHM/wwwroot/css/Index.css" Line="1" Column="1" />
-      <File FileName="MyGramHM/Views/Home/CalendarView.cshtml" />
-      <File FileName="MyGramHM/wwwroot/css/CalendarView.css" Line="65" Column="1" />
-      <File FileName="MyGramHM/Views/Shared/_Layout.cshtml" Line="46" Column="1" />
+      <File FileName="MyGramHM/wwwroot/css/Index.css" Line="28" Column="1" />
+      <File FileName="MyGramHM/Views/Home/CalendarView.cshtml" Line="1" Column="1" />
+      <File FileName="MyGramHM/wwwroot/css/CalendarView.css" Line="1" Column="1" />
+      <File FileName="MyGramHM/Views/Shared/_Layout.cshtml" Line="29" Column="41" />
+      <File FileName="MyGramHM/Views/Home/Index.cshtml" Line="77" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyGramHM" expanded="True">
             <Node name="MyGramHM" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
                 </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
