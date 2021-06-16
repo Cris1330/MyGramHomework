@@ -3,25 +3,19 @@
     <Files>
       <File FileName="HomeworkMyGram/Views/Home/Index.cshtml" Line="1" Column="1" />
       <File FileName="HomeworkMyGram/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="HomeworkMyGram/wwwroot/css/site.css" Line="1" Column="1" />
-      <File FileName="HomeworkMyGram/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="HomeworkMyGram/Views/Home/signup.cshtml" Line="1" Column="1" />
+      <File FileName="HomeworkMyGram/wwwroot/css/site.css" />
+      <File FileName="HomeworkMyGram/Views/Shared/_Layout.cshtml" />
+      <File FileName="HomeworkMyGram/Views/Home/signup.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HomeworkMyGram" expanded="True">
             <Node name="HomeworkMyGram" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
